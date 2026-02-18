@@ -1,4 +1,4 @@
-## Hi there, I'm Ana Paula!
+# Hi there, I'm Ana Paula!
 
 
 - 💻 Master in Data Science graduate from Durham University
@@ -6,7 +6,7 @@
 - 🛜 Sharing my experience and work throughout my education in tech
 - 💭 Currently looking for entry-level data science jobs<br/>
 
-## 🌐 Socials
+# 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-paula-castro-reyes) 
 
 # 💻 Tech Stack
