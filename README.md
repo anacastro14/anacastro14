@@ -1,11 +1,10 @@
 # Hi there, I'm Ana Paula!
 
 
+- 🛜 Jr Data Engineer @ AutoZone BSSC
 - 💻 Master in Data Science graduate from Durham University
 - 🦾 Biomedical Engineer from Universidad Autónoma de Chihuahua
-- 🛜 Sharing my experience and work throughout my education in tech
-- 💭 Currently looking for entry-level data science jobs<br/>
-
+- 💭 Sharing my experience and work throughout my education in tech
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-paula-castro-reyes) 
 
