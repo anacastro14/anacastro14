@@ -1,7 +1,7 @@
 # Hi there, I'm Ana Paula!
 
 
-- 🛜 Jr Data Engineer @ AutoZone BSSC
+- 🛜 Jr Data Engineer @ AutoZone BTSSC
 - 💻 Master in Data Science graduate from Durham University
 - 🦾 Biomedical Engineer from Universidad Autónoma de Chihuahua
 - 💭 Sharing my experience and work throughout my education in tech
